@@ -116,6 +116,7 @@ Getting started
 | `a`      | Append                              |
 | `A`      | Append from end of line             |
 | `i`      | Insert                              |
+| `I`      | Insert from start of line           |
 | `o`      | Next line                           |
 | `O`      | Previous line                       |
 | ---      | ---                                 |
